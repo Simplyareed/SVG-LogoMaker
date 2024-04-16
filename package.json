@@ -1,0 +1,19 @@
+{
+    "name": "SVG-LogoMaker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "Assets"
+    },
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://github.com/Simplyareed/SVG-LogoMaker",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^29.4.3"
+    },
+      "scripts": {
+        "test": "jest"
+      }
+    }

@@ -26,13 +26,8 @@ Go into the terminal and run npm install, afterwards please refer to the usage s
 
 After running npm install in the command line, you will be given a series of prompts to answer which will auto fill out your SVG logo that you wish to be created. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-
+[text](<SVG screencapture.webm>)
 
 ## Features
 
@@ -43,4 +38,6 @@ Shape Selection: Choose from three different shapes to accompany your logo text.
 ## How to Contribute
 
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+
 
