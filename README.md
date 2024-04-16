@@ -28,6 +28,9 @@ After running npm install in the command line, you will be given a series of pro
 
 [SVG screencapture.webm](https://github.com/Simplyareed/SVG-LogoMaker/assets/157844688/6095ed9f-0c92-48cb-a97d-7529bd6f0d34)
 
+
+link to video as well - https://app.screencastify.com/v3/watch/GMiIXKmKe1anEhYVtCyU
+
 ## Features
 
 Custom Text: Input up to three characters for your logo's text.
