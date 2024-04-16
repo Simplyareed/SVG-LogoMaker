@@ -26,8 +26,7 @@ Go into the terminal and run npm install, afterwards please refer to the usage s
 
 After running npm install in the command line, you will be given a series of prompts to answer which will auto fill out your SVG logo that you wish to be created. 
 
-
-[text](<SVG screencapture.webm>)
+[SVG screencapture.webm](https://github.com/Simplyareed/SVG-LogoMaker/assets/157844688/6095ed9f-0c92-48cb-a97d-7529bd6f0d34)
 
 ## Features
 
